@@ -1,0 +1,10 @@
+streamlit==1.56.0
+plotly==6.7.0
+pandas==2.3.3
+numpy==2.2.6
+wordcloud==1.9.6
+vaderSentiment==3.3.2
+openpyxl==3.1.5
+lxml==6.1.0
+python-calamine==0.6.2
+requests==2.33.1

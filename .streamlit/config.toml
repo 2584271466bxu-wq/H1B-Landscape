@@ -1,0 +1,14 @@
+[server]
+headless = true
+
+[client]
+showSidebarNavigation = false
+
+[theme]
+# Course-aligned palette (Okabe–Ito-derived, colorblind-safe).
+# primaryColor doubles as the default mark color in Plotly figures.
+primaryColor = "#0072B2"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F6F8"
+textColor = "#1A1A1A"
+font = "sans serif"

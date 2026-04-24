@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Large data files (too big for GitHub)
+*.jsonl
+data/raw/lca/
+# Keep processed CSVs and USCIS CSVs — they're small
