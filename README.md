@@ -55,7 +55,7 @@ pip install -r requirements.txt
 > CSVs in `data/processed/` (committed). You only need the raw files if you
 > want to **re-run the data pipelines**.
 >
-> **Mirror of the raw data (Columbia Drive):**
+> **Mirror of the raw data (Google Drive):**
 > [https://drive.google.com/drive/folders/1l-YFCmTn7_xzbzCda0mB7YcOnJOtxG1G](https://drive.google.com/drive/folders/1l-YFCmTn7_xzbzCda0mB7YcOnJOtxG1G?usp=sharing)
 >
 > Download the folder and drop its contents into `data/raw/` and `data/`,
